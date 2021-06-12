@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rickmastry/TaskTracker/static/css/main.822f0d4d.chunk.css",
+    "main.js": "/rickmastry/TaskTracker/static/js/main.ebd426de.chunk.js",
+    "main.js.map": "/rickmastry/TaskTracker/static/js/main.ebd426de.chunk.js.map",
+    "runtime-main.js": "/rickmastry/TaskTracker/static/js/runtime-main.88dea12f.js",
+    "runtime-main.js.map": "/rickmastry/TaskTracker/static/js/runtime-main.88dea12f.js.map",
+    "static/js/2.264deee2.chunk.js": "/rickmastry/TaskTracker/static/js/2.264deee2.chunk.js",
+    "static/js/2.264deee2.chunk.js.map": "/rickmastry/TaskTracker/static/js/2.264deee2.chunk.js.map",
+    "static/js/3.3cbdd6b4.chunk.js": "/rickmastry/TaskTracker/static/js/3.3cbdd6b4.chunk.js",
+    "static/js/3.3cbdd6b4.chunk.js.map": "/rickmastry/TaskTracker/static/js/3.3cbdd6b4.chunk.js.map",
+    "index.html": "/rickmastry/TaskTracker/index.html",
+    "static/css/main.822f0d4d.chunk.css.map": "/rickmastry/TaskTracker/static/css/main.822f0d4d.chunk.css.map",
+    "static/js/2.264deee2.chunk.js.LICENSE.txt": "/rickmastry/TaskTracker/static/js/2.264deee2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88dea12f.js",
+    "static/js/2.264deee2.chunk.js",
+    "static/css/main.822f0d4d.chunk.css",
+    "static/js/main.ebd426de.chunk.js"
+  ]
+}
